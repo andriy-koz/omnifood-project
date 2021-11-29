@@ -20,7 +20,7 @@ Build a responsive landing page, using Flexbox and Grid.
 
 ### Screenshot
 
-![](./Screenshot Omnifood.png)
+![](./screenshot.png)
 
 ### Links
 
